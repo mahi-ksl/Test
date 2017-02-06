@@ -3,6 +3,6 @@
  */
 public class Class2 {
     void print(){
-        System.out.println("this is class1");
+        System.out.println("UPDATED: this is class1");
     }
 }
